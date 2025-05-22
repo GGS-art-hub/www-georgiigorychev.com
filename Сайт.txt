@@ -1,0 +1,143 @@
+<HTML>
+<HEAD>
+<TITLE> Моя домашняя страница </TITLE>
+</HEAD>
+<BODY>
+    тэги
+
+<HTML>
+
+file:///C:/webpages/First.htm/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80.txt
+
+file:///C:/webpages/First.htm/%D0%9F%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C.txt
+
+
+<HEAD>
+<div id="c8bbcbfa5eb6ab306513936fa14f91ed" class="ww-informers-box-854753"><p class="ww-informers-box-854754"><a href="https://world-weather.ru/pogoda/russia/moscow/">https://world-weather.ru</a><br><a href="https://world-weather.ru/pogoda/russia/voronezh/">https://world-weather.ru/pogoda/russia/voronezh/</a></p></div><script async type="text/javascript" charset="utf-8" src="https://world-weather.ru/wwinformer.php?userid=c8bbcbfa5eb6ab306513936fa14f91ed"></script><style>.ww-informers-box-854754{-webkit-animation-name:ww-informers54;animation-name:ww-informers54;-webkit-animation-duration:1.5s;animation-duration:1.5s;white-space:nowrap;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;font-size:12px;font-family:Arial;line-height:18px;text-align:center}@-webkit-keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}@keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}</style>
+
+<TITLE>
+
+</TITLE>
+
+</HEAD>
+
+<div id="fa57bd15349aec8a701419eb6dd5c277" class="ww-informers-box-854753"><p class="ww-informers-box-854754"><a href="https://world-weather.ru/pogoda/russia/saint_petersburg/">Санкт-Петербург - прогноз погоды</a><br><a href="https://world-weather.ru/pogoda/russia/omsk/">https://world-weather.ru/pogoda/russia/omsk/</a></p></div><script async type="text/javascript" charset="utf-8" src="https://world-weather.ru/wwinformer.php?userid=fa57bd15349aec8a701419eb6dd5c277"></script><style>.ww-informers-box-854754{-webkit-animation-name:ww-informers54;animation-name:ww-informers54;-webkit-animation-duration:1.5s;animation-duration:1.5s;white-space:nowrap;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;font-size:12px;font-family:Arial;line-height:18px;text-align:center}@-webkit-keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}@keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}</style>
+
+Моя домашняя страница
+
+<BODY TEXT="000000"
+
+BGCOLOR="#CCCCCС"
+
+LINK="#0000FF"
+
+VLINK="#FF0000"
+
+ALINK="#000088">
+
+<CENTER><H1>
+
+</H1></CENTER>
+
+<CENTER><H2>
+
+</H2></CENTER>
+
+<B><I>
+
+</B></I>
+
+<div>
+
+<style>
+
+h1{
+
+color:red;
+ }
+
+<a>
+
+<span>
+
+<ul>
+
+<li>
+
+<p>
+
+<img>
+
+<br>
+
+<script>
+
+<B>
+
+</B>
+
+<B>
+
+</B>
+
+https://i.pinimg.com/originals/79/08/d6/7908d60a32195786b333f9ded9adb668.gif
+
+<P><CENTER>
+
+</P></CENTER>
+
+<P><CENTER>
+
+<IMG SRC="свое фото.jpg">
+
+</P></CENTER>
+
+<HR>
+
+<CENTER>
+
+Приветствую на моей домашней странице!
+
+Надеюсь, Вам не будет скучно...
+
+Позвольте представиться: меня зовут
+
+Георгий
+
+Я люблю
+
+Фантастику, компьютеры и музыку в стиле Black Metal.
+
+Терпеть не могу
+
+РЭП и хомячков.
+
+Для тех, кто еще не знает, как я выгляжу, моя фотография:
+
+Можете попробовать поискать информацию обо мне на Яндексе.
+
+<A HREF="http://www.yahoo.com">
+
+</A>
+
+</CENTER></P>
+
+<CENTER>
+
+<A HREF="mailto:pomstick61@gmail.com">
+
+<V>
+
+и напишите мне письмо на
+
+User pomstick61@gmail.com
+
+потом скажите, что у Вас вышло
+
+</CENTER>
+
+</BODY>
+
+</HTML>
+</BODY>
+</HTML>

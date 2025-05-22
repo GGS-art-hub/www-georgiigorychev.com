@@ -13,3 +13,4 @@
 Терпеть не могу
 
 РЭП и хомячков.
+![7837bdf10c630ec0acd54f38a1c126c6](https://github.com/user-attachments/assets/e39280c4-f4a4-44e6-9025-1c52f7ce5825)
